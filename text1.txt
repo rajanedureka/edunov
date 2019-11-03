@@ -1,2 +1,2 @@
-s is a new line:s
-
+this is a new line
+s is another line
