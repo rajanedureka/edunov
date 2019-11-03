@@ -1,0 +1,4 @@
+s is a new line for text3 file
+hell world
+hello git
+
